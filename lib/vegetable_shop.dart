@@ -33,12 +33,7 @@ class VegetableShop extends StatelessWidget {
           image: 'assets/pipino.png',
           addWeightToTotal: addWeightToTotal,
         ),
-        VegetableCard(
-          title: 'Siling labYouPo',
-          pricePerKg: 30.0,
-          image: 'assets/silly.png',
-          addWeightToTotal: addWeightToTotal,
-        ),
+       
         VegetableCard(
           title: 'Repolyo',
           pricePerKg: 20.0,
